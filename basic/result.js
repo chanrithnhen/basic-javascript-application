@@ -5,9 +5,9 @@ import { conversion } from './conversion.js';
 import { object } from './object.js';
 
 export function run() {
-    //variable();
-    //datatypes();
-    //operators();
-    //conversion();
-    //object();
+    variable();
+    datatypes();
+    operators();
+    conversion();
+    object();
 }
